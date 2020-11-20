@@ -1,6 +1,6 @@
 ## image2cpp ##
 
-Use this tool online at https://www.3agv2004.info/OLEDicons/
+Use this tool online at https://www.3agv2004.info/OLEDsplashIcons<br />
 Questo è un semplice strumento per trasformare le immagini in array di byte (o un array in un'immagine) da utilizzare con schermi (monocromatici) tipo OLED, come quelli di Adafruit o Sparkfun.
 
 In alternativa si può anche inserire un array di byte come input per trasformarlo di nuovo in una immagine. Ciò potrebbe essere utile per il debug o quando si desidera scrivere personalmente l'array di byte.
